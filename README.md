@@ -11,3 +11,4 @@ Python, Jupyter, Numpy, Pandas
 2. 
 
 ## Resources
+https://towardsdatascience.com/predict-customer-churn-with-neural-network-1ef8f1a1c6ab
